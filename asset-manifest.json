@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/banoo-app/static/css/main.0fff2389.css",
-    "main.js": "/banoo-app/static/js/main.56459eb8.js",
-    "static/js/787.5e489101.chunk.js": "/banoo-app/static/js/787.5e489101.chunk.js",
-    "static/media/hero-image2.png": "/banoo-app/static/media/hero-image2.3ceff31d460b2bea6868.png",
-    "static/media/post-image2.png": "/banoo-app/static/media/post-image2.0a3b4143770a40f4274f.png",
-    "static/media/hero-image.png": "/banoo-app/static/media/hero-image.ece2270e311dc99307f9.png",
-    "static/media/post-image3.png": "/banoo-app/static/media/post-image3.98253f1792fede0916f0.png",
-    "static/media/post-image.png": "/banoo-app/static/media/post-image.212b93f516aee6aede38.png",
-    "static/media/profilepic3.png": "/banoo-app/static/media/profilepic3.d314ba17ee5842264359.png",
-    "static/media/profilepic4.png": "/banoo-app/static/media/profilepic4.90cc6dff115e5cc72746.png",
-    "static/media/profilepic2.png": "/banoo-app/static/media/profilepic2.33a90be53204e29920fa.png",
-    "static/media/profilepic1.png": "/banoo-app/static/media/profilepic1.1a47ea5823c2a2b46f42.png",
-    "static/media/signup.png": "/banoo-app/static/media/signup.6b92f911d1e98f1b7a64.png",
-    "static/media/nav-title.png": "/banoo-app/static/media/nav-title.87d9f76600596dc20af6.png",
-    "index.html": "/banoo-app/index.html",
-    "main.0fff2389.css.map": "/banoo-app/static/css/main.0fff2389.css.map",
-    "main.56459eb8.js.map": "/banoo-app/static/js/main.56459eb8.js.map",
-    "787.5e489101.chunk.js.map": "/banoo-app/static/js/787.5e489101.chunk.js.map"
+    "main.css": "/Banao-Mern-App/static/css/main.0fff2389.css",
+    "main.js": "/Banao-Mern-App/static/js/main.e2892172.js",
+    "static/js/787.5e489101.chunk.js": "/Banao-Mern-App/static/js/787.5e489101.chunk.js",
+    "static/media/hero-image2.png": "/Banao-Mern-App/static/media/hero-image2.3ceff31d460b2bea6868.png",
+    "static/media/post-image2.png": "/Banao-Mern-App/static/media/post-image2.0a3b4143770a40f4274f.png",
+    "static/media/hero-image.png": "/Banao-Mern-App/static/media/hero-image.ece2270e311dc99307f9.png",
+    "static/media/post-image3.png": "/Banao-Mern-App/static/media/post-image3.98253f1792fede0916f0.png",
+    "static/media/post-image.png": "/Banao-Mern-App/static/media/post-image.212b93f516aee6aede38.png",
+    "static/media/profilepic3.png": "/Banao-Mern-App/static/media/profilepic3.d314ba17ee5842264359.png",
+    "static/media/profilepic4.png": "/Banao-Mern-App/static/media/profilepic4.90cc6dff115e5cc72746.png",
+    "static/media/profilepic2.png": "/Banao-Mern-App/static/media/profilepic2.33a90be53204e29920fa.png",
+    "static/media/profilepic1.png": "/Banao-Mern-App/static/media/profilepic1.1a47ea5823c2a2b46f42.png",
+    "static/media/signup.png": "/Banao-Mern-App/static/media/signup.6b92f911d1e98f1b7a64.png",
+    "static/media/nav-title.png": "/Banao-Mern-App/static/media/nav-title.87d9f76600596dc20af6.png",
+    "index.html": "/Banao-Mern-App/index.html",
+    "main.0fff2389.css.map": "/Banao-Mern-App/static/css/main.0fff2389.css.map",
+    "main.e2892172.js.map": "/Banao-Mern-App/static/js/main.e2892172.js.map",
+    "787.5e489101.chunk.js.map": "/Banao-Mern-App/static/js/787.5e489101.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0fff2389.css",
-    "static/js/main.56459eb8.js"
+    "static/js/main.e2892172.js"
   ]
 }
